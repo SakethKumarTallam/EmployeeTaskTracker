@@ -83,7 +83,8 @@ npm install
 ```
 
 MONGODB_URI=<your_mongodb_atlas_uri> // MongoDB Atlas connection string for deployment
-JWT_SECRET=<your_jwt_secret>
+PORT = 5001
+JWT_SECRET=<your_jwt_secret> // Any Random String
 SEED_DB=true
 ```
 
